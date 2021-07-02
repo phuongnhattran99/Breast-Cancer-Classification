@@ -3,6 +3,8 @@
 Binary Classification of Benign and Malignant Breast Cancer Image using Convolutional Neural Network 
 with about 86.818% on Training Accuracy and 90% on Validation Accuracy
 
+Dataset has 1.100 images, including: 550 Benign Breast Cancer Images and 550 Malignant Breast Cancer Images
+
 # Libraries in this project
 numpy
 matplotlib
