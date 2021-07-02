@@ -19,7 +19,9 @@ sys
 <img src="https://github.com/phuongnhattran99/Breast-Cancer-Classification/blob/main/Dataset/train/malignant/SOB_M_DC-14-2523-40-010.png" width="350" height="230">
 
 # Plot Accuracy
-!(https://user-images.githubusercontent.com/81501596/124246020-bbd08580-db4a-11eb-9d46-2427f0dc30c5.png)
+![Accuracy 3 Block](https://user-images.githubusercontent.com/81501596/124248351-f509f500-db4c-11eb-83e7-f34193eec22c.png)
+
 
 # Plot Loss
-!(https://user-images.githubusercontent.com/81501596/124246101-d1de4600-db4a-11eb-9552-d263e650eb26.png)
+![Loss 3 block](https://user-images.githubusercontent.com/81501596/124248380-fcc99980-db4c-11eb-9ec2-ccb837e03653.png)
+
