@@ -11,7 +11,7 @@ keras
 sys
 
 # Benign Breast Cancer
-![alt text](https://github.com/phuongnhattran99/Breast-Cancer-Classification/blob/main/Dataset/train/benign/SOB_B_A-14-22549AB-40-002.png)
+<img src="https://github.com/phuongnhattran99/Breast-Cancer-Classification/blob/main/Dataset/train/benign/SOB_B_A-14-22549AB-40-002.png" width="350" height="230">
 
 # Malignant Breast Cancer
 <img src="https://github.com/phuongnhattran99/Breast-Cancer-Classification/blob/main/Dataset/train/malignant/SOB_M_DC-14-2523-40-010.png" width="350" height="230">
