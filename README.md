@@ -14,8 +14,7 @@ sys
 ![alt text](https://github.com/phuongnhattran99/Breast-Cancer-Classification/blob/main/Dataset/train/benign/SOB_B_A-14-22549AB-40-002.png)
 
 # Malignant Breast Cancer
-![alt text](https://github.com/phuongnhattran99/Breast-Cancer-Classification/blob/main/Dataset/train/malignant/SOB_M_DC-14-2523-40-010.png)
-
+<img src="https://github.com/phuongnhattran99/Breast-Cancer-Classification/blob/main/Dataset/train/malignant/SOB_M_DC-14-2523-40-010.png" width="350" height="230">
 # Plot Accuracy
 ![Accuracy 3 Block](https://user-images.githubusercontent.com/81501596/124246020-bbd08580-db4a-11eb-9d46-2427f0dc30c5.png)
 
